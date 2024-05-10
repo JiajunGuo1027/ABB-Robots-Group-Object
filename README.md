@@ -15,8 +15,8 @@ The total program cycle should include the following:
 7. Return to Home
 
 ## Run
-Use the TCP(Tool Centre Point) 'Crytool' and the Workobject 'Crywobj'
+Use the TCP(Tool Centre Point) `Crytool` and the Workobject `Crywobj`
 
-The Program name is 'Crystal Mech'
+The Program name is `Crystal Mech`
 
-Then Click 'Debug' -> 'PP to main' -> 'Run'
+Then Click `Debug` -> `PP to main` -> `Run`
