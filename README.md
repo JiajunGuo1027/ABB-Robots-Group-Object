@@ -16,8 +16,12 @@ The total program cycle should include the following:
 7. Return to Home
 
 ## Run
+Attach the model to the jig.
+
 Use the TCP(Tool Centre Point) `toolCry` and the Workobject `wobjCry`
 
 The Program name is `Crystal Mech`
 
 Then Click `Debug` -> `PP to main` -> `Run`
+
+![Jig](images/jig_cad_crystalmechjg2.jpg)
