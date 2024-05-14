@@ -2,6 +2,7 @@
 Program an industrial robot (either the IRB1660 or IRB140) to guide a simulated glue dispenser around the edge of an injection molded part. 
 The "images" folder shows the running results and the designed jig. The `new_jig_crystal_mech.prt.2` file shows the CAD model of the jig.
 The core program files are `Crystal_Mech_9.pgf` and `MainMoudle.mod`.
+
 ![Run](images/Run.jpg)
 
 ## Task
