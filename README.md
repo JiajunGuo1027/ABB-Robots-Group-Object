@@ -1,7 +1,8 @@
 # ABB-Robots-Group-Object
 Program an industrial robot (either the IRB1660 or IRB140) to guide a simulated glue dispenser around the edge of an injection molded part. 
-The "images" folder shows the running results and the designed jig. The `new_jig_crystal_mech.prt.2` file shows the CAD model of the jig.
-The core program files are `Crystal_Mech_9.pgf` and `MainMoudle.mod`.
+The "images" folder shows the running results and the designed jig. 
+
+All the code used to control the movement of the robot arm can be found in `MainMoudle.mod`, which contains specific robot control instructions and necessary code comments. `Crystal_Mech_9.pgf` is an XML file that references the `MainModule.mod` file. The `new_jig_crystal_mech.prt.2` file shows the jig model modeled using Creo CAD software. `jig_specification_file.pdf` explains the design and use of jig.
 
 ![Run](images/Run.jpg)
 
