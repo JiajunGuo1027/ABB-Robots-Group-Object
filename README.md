@@ -26,3 +26,8 @@ Use the TCP(Tool Centre Point) `toolCry` and the Workobject `wobjCry`
 The Program name is `Crystal Mech`
 
 Then Click `Debug` -> `PP to main` -> `Run`
+
+## Final Result Video
+
+[Click here to watch the final result video](<https://youtu.be/6i8HzuhqgAE>)
+
